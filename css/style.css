@@ -1,0 +1,46 @@
+.un {
+    background-color: chocolate;
+    height: 100px;
+    margin:5px;
+    text-align: center;
+}
+.deux {
+    background-color: chocolate;
+    height: 100px;
+    margin: 5px;
+    text-align: center;
+    width: 1000px
+}
+.trois {
+    background-color: chocolate;
+    height: 100px;
+    margin: 5px;
+    text-align: center;
+    width: 1000px;
+}
+.douze {
+    background-color: chocolate;
+    height: 100px;
+    margin: 5px;
+    text-align: center;
+    width: 1000px;
+}
+.dos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tres {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.twelve {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    justify-content: center;
+    align-items: center;
+}
